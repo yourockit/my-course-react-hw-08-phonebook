@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/my-course-react-hw-08-phonebook/static/css/main.5eabd365.css",
-    "main.js": "/my-course-react-hw-08-phonebook/static/js/main.de210fbe.js",
+    "main.js": "/my-course-react-hw-08-phonebook/static/js/main.f61b15db.js",
     "static/js/415.f633739a.chunk.js": "/my-course-react-hw-08-phonebook/static/js/415.f633739a.chunk.js",
     "static/js/641.adfa25c8.chunk.js": "/my-course-react-hw-08-phonebook/static/js/641.adfa25c8.chunk.js",
     "static/js/505.7a7fb3e1.chunk.js": "/my-course-react-hw-08-phonebook/static/js/505.7a7fb3e1.chunk.js",
@@ -10,7 +10,7 @@
     "static/js/705.5d50f861.chunk.js": "/my-course-react-hw-08-phonebook/static/js/705.5d50f861.chunk.js",
     "index.html": "/my-course-react-hw-08-phonebook/index.html",
     "main.5eabd365.css.map": "/my-course-react-hw-08-phonebook/static/css/main.5eabd365.css.map",
-    "main.de210fbe.js.map": "/my-course-react-hw-08-phonebook/static/js/main.de210fbe.js.map",
+    "main.f61b15db.js.map": "/my-course-react-hw-08-phonebook/static/js/main.f61b15db.js.map",
     "415.f633739a.chunk.js.map": "/my-course-react-hw-08-phonebook/static/js/415.f633739a.chunk.js.map",
     "641.adfa25c8.chunk.js.map": "/my-course-react-hw-08-phonebook/static/js/641.adfa25c8.chunk.js.map",
     "505.7a7fb3e1.chunk.js.map": "/my-course-react-hw-08-phonebook/static/js/505.7a7fb3e1.chunk.js.map",
@@ -20,6 +20,6 @@
   },
   "entrypoints": [
     "static/css/main.5eabd365.css",
-    "static/js/main.de210fbe.js"
+    "static/js/main.f61b15db.js"
   ]
 }

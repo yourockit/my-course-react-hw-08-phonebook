@@ -1,18 +1,18 @@
 {
   "files": {
     "main.css": "/my-course-react-hw-08-phonebook/static/css/main.5eabd365.css",
-    "main.js": "/my-course-react-hw-08-phonebook/static/js/main.ca664036.js",
-    "static/js/242.7ea53c82.chunk.js": "/my-course-react-hw-08-phonebook/static/js/242.7ea53c82.chunk.js",
-    "static/js/775.a62b37e0.chunk.js": "/my-course-react-hw-08-phonebook/static/js/775.a62b37e0.chunk.js",
+    "main.js": "/my-course-react-hw-08-phonebook/static/js/main.76a762d6.js",
+    "static/js/242.7218d480.chunk.js": "/my-course-react-hw-08-phonebook/static/js/242.7218d480.chunk.js",
+    "static/js/775.86f969a3.chunk.js": "/my-course-react-hw-08-phonebook/static/js/775.86f969a3.chunk.js",
     "static/js/505.01db5062.chunk.js": "/my-course-react-hw-08-phonebook/static/js/505.01db5062.chunk.js",
     "static/js/848.0812ff47.chunk.js": "/my-course-react-hw-08-phonebook/static/js/848.0812ff47.chunk.js",
     "static/js/287.5a09ba90.chunk.js": "/my-course-react-hw-08-phonebook/static/js/287.5a09ba90.chunk.js",
     "static/css/544.7c3dd9d6.chunk.css": "/my-course-react-hw-08-phonebook/static/css/544.7c3dd9d6.chunk.css",
     "index.html": "/my-course-react-hw-08-phonebook/index.html",
     "main.5eabd365.css.map": "/my-course-react-hw-08-phonebook/static/css/main.5eabd365.css.map",
-    "main.ca664036.js.map": "/my-course-react-hw-08-phonebook/static/js/main.ca664036.js.map",
-    "242.7ea53c82.chunk.js.map": "/my-course-react-hw-08-phonebook/static/js/242.7ea53c82.chunk.js.map",
-    "775.a62b37e0.chunk.js.map": "/my-course-react-hw-08-phonebook/static/js/775.a62b37e0.chunk.js.map",
+    "main.76a762d6.js.map": "/my-course-react-hw-08-phonebook/static/js/main.76a762d6.js.map",
+    "242.7218d480.chunk.js.map": "/my-course-react-hw-08-phonebook/static/js/242.7218d480.chunk.js.map",
+    "775.86f969a3.chunk.js.map": "/my-course-react-hw-08-phonebook/static/js/775.86f969a3.chunk.js.map",
     "505.01db5062.chunk.js.map": "/my-course-react-hw-08-phonebook/static/js/505.01db5062.chunk.js.map",
     "848.0812ff47.chunk.js.map": "/my-course-react-hw-08-phonebook/static/js/848.0812ff47.chunk.js.map",
     "287.5a09ba90.chunk.js.map": "/my-course-react-hw-08-phonebook/static/js/287.5a09ba90.chunk.js.map",
@@ -20,6 +20,6 @@
   },
   "entrypoints": [
     "static/css/main.5eabd365.css",
-    "static/js/main.ca664036.js"
+    "static/js/main.76a762d6.js"
   ]
 }
